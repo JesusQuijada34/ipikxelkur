@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <app>
-  <publisher>Influent</publisher>
+  <publisher>influent</publisher>
   <app>ipikxelkur</app>
   <name>iPikxel Kursor Editor</name>
-  <version>v1.0-26.08-21.56-AlphaCube</version>
-  <correlationid>4952e35dd7414a3f3427dbcddfb3b49bfc462f130f1dd7b7d72bca36bf23a2d1</correlationid>
+  <version>v1.0-26.08-21.56</version>
+  <correlationid>07a8b09ac87bb4fab43da79491e9526f5317dd87ae9355172cd8f02b03306c7c</correlationid>
   <rate>Todas las edades</rate>
   <author>JesusQuijada34</author>
   <platform>AlphaCube</platform>
